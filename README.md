@@ -1,16 +1,5 @@
-# first
+## Tutormate 
 
-A new Flutter project.
+This mobile app is developed to help teachers to track their tutoring sessions, payments, and student information. The app would allow teachers to log each tutoring session with dates, times, and subjects covered, providing a clear overview of their monthly schedule. Teachers can easily manage payment statuses, whether payments are due, pending, or received, and set up reminders for overdue payments to ensure financial clarity. Additionally, maintaining a detailed database of student profiles would enable teachers to access contact details.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
